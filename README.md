@@ -1,3 +1,6 @@
+
+[![](https://img.shields.io/docker/build/soluto/azure-python-cli-with-docker.svg)](https://hub.docker.com/r/soluto/azure-python-cli-with-docker/)
+
 # azure-python-cli-with-docker
 Azure python CLI with Docker installed
 You can use this image to easily push into Azure Container Registry.
