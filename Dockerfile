@@ -1,4 +1,4 @@
 FROM azuresdk/azure-cli-python
 
-RUN apk add --updat docker \
+RUN apk add --update docker \
     && rm -rf /var/cache/apk/*
